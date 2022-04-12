@@ -22,7 +22,6 @@ $ npm install
 $ npx cypress open
 ```
 2. Then click on "Run All Integration Specs"
-<img width="804" alt="Screenshot 2022-04-09 at 11 33 00 PM" src="https://user-images.githubusercontent.com/37690861/162583336-4b8ca5da-36ef-4e47-83d3-eb337ef6cf3c.png">
 
 Or you can run it via terminal and the video attachment for each test would be saved automatically to your directory
 ```sh
